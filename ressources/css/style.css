@@ -15,29 +15,26 @@ header span {
 }
 
 .content h1 {
-  font-family: helvetica;
   font-size: 32px;
-  font-weight: bold;
   color: white;
 }
 
 .content h2 {
-  font-family: helvetica;
   font-size: 24px;
 }
 
-.content p {
+h1,
+h2,
+p {
   font-family: helvetica;
 }
 
 .blue {
   color: blue;
-
 }
 
 .bold {
   font-weight: bold;
-
 }
 
 .cust-green {
