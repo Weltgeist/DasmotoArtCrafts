@@ -6,3 +6,48 @@ header  {
   margin: 20px 0;
   text-align: center;
 }
+
+header span {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+.content h1 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.content h2 {
+  font-family: helvetica;
+  font-size: 24px;
+}
+
+.content p {
+  font-family: helvetica;
+}
+
+.blue {
+  color: blue;
+
+}
+
+.bold {
+  font-weight: bold;
+
+}
+
+.cust-green {
+   background-color: mediumspringgreen;
+}
+
+.cust-blue {
+  background-color: skyblue;
+}
+
+.cust-red {
+  background-color: lightcoral;
+}
